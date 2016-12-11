@@ -9,7 +9,7 @@
     "geom:bbox":"-84.48434,39.02153,-84.25651,39.29331",
     "geom:latitude":39.142839,
     "geom:longitude":-84.352049,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":208156417.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 27",
     "uscensus:sldlst":"027",
     "uscensus:statefp":"39",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487783,
     "wof:geomhash":"2b741d14d5ac6f1b7763727e1ceaaf33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688485
+        }
+    ],
     "wof:id":1108771657,
     "wof:lastmodified":1481487783,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688485,
     "wof:repo":"whosonfirst-data-constituency-us-oh",
     "wof:superseded_by":[],
     "wof:supersedes":[],

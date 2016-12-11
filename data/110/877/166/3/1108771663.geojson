@@ -9,7 +9,7 @@
     "geom:bbox":"-84.8203,39.073281,-84.54254,39.312056",
     "geom:latitude":39.224486,
     "geom:longitude":-84.705909,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":347914084.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 29",
     "uscensus:sldlst":"029",
     "uscensus:statefp":"39",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487783,
     "wof:geomhash":"3250d12b70a8139cecbfa66fcd673d36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688485
+        }
+    ],
     "wof:id":1108771663,
     "wof:lastmodified":1481487783,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688485,
     "wof:repo":"whosonfirst-data-constituency-us-oh",
     "wof:superseded_by":[],
     "wof:supersedes":[],

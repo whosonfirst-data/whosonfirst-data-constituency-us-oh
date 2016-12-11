@@ -9,7 +9,7 @@
     "geom:bbox":"-83.6702,39.16777,-82.74061,39.8125",
     "geom:latitude":39.487161,
     "geom:longitude":-83.199444,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3350810718.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 92",
     "uscensus:sldlst":"092",
     "uscensus:statefp":"39",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487809,
     "wof:geomhash":"698ccf6d72e7e23ec131470d83d86ba3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688485
+        }
+    ],
     "wof:id":1108771805,
     "wof:lastmodified":1481487809,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688485,
     "wof:repo":"whosonfirst-data-constituency-us-oh",
     "wof:superseded_by":[],
     "wof:supersedes":[],

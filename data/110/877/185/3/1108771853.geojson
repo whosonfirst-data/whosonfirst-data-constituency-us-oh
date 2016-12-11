@@ -9,7 +9,7 @@
     "geom:bbox":"-84.32004,38.481608,-82.62635,39.270796",
     "geom:latitude":38.894289,
     "geom:longitude":-83.564179,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":5576452485.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 14",
     "uscensus:sldust":"014",
     "uscensus:statefp":"39",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487833,
     "wof:geomhash":"4499a70d23732a79c6843210632ff984",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688485
+        }
+    ],
     "wof:id":1108771853,
     "wof:lastmodified":1481487833,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688485,
     "wof:repo":"whosonfirst-data-constituency-us-oh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
